@@ -29,5 +29,5 @@ To report bugs and issues, follow these steps:
 
 ## Contributors
 <ul>
-  <li> <a href="https://github.com/AdityaKG-169">Yash Bhartia</a> </li>
+  <li> <a href="https://github.com/AdityaKG-169">Aditya Krishna</a> </li>
 </ul>
